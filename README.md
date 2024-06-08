@@ -1,2 +1,2 @@
 # exemplos_roger
-Exemplos de projeto para aprendizado em Java
+Exemplos de projetos para aprendizado em Java
